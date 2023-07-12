@@ -16,4 +16,4 @@ Masaüstü Görünüm
 Responsive Görünüm (Mobil Görünüm)
 <br/>
 
-![responsive görünüm](https://media3.giphy.com/media/217LAPvcgv1AYDDR78/giphy.webp)
+![responsive görünüm](https://media2.giphy.com/media/5itPgIhm9udK79yPPE/giphy.webp)
